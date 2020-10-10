@@ -9,8 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //4 commit
         //1
-        //2 from other party
-        //3 rd commit
+       //5 commit
 
 
 
