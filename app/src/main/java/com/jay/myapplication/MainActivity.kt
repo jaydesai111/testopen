@@ -9,6 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //1
+        //2 from other party
         //3 rd commit
+
+
+
     }
 }
